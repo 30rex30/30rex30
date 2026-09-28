@@ -5,9 +5,9 @@
 
 ### Renato Bento 🇵🇹
 
-💻 Estudo programação há 3 anos
+💻 Estudo programação há 3 anos.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=30rex30&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programar%20por%20paixão&descAlignY=60&descSize=18" width="100%" alt="Banner 30rex30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=30rex30&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20perfil&descAlignY=60&descSize=18" width="100%" alt="Banner 30rex30" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-@30rex30-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/30rex30/)
 
@@ -22,7 +22,7 @@
 - 👋 Olá! Chamo-me **Renato Bento** e sou conhecido como **30rex30**.
 - 🇵🇹 Sou de Portugal.
 - 📚 Estudo programação há 3 anos.
-- 💻 Programo por paixão e gosto de transformar ideias em realidade.
+- 💻 Gosto de criar projectos e explorar novas tecnologias.
 - 🚀 Estou sempre à procura de novos desafios e de aprender coisas novas.
 - 🎯 O meu objectivo é continuar a evoluir como programador e desenvolver projectos de que me orgulhe.
 
@@ -76,7 +76,7 @@ A música faz parte do meu dia a dia, especialmente quando estou a programar.
 
 ### Obrigado pela visita!
 
-*Feito em Portugal, com dedicação e muitas linhas de código.*
+*Feito em Portugal.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%" alt="Rodapé roxo" />
 
