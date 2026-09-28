@@ -26,6 +26,8 @@
 - 🚀 Estou sempre à procura de novos desafios e de aprender coisas novas.
 - 🎯 O meu objectivo é continuar a evoluir como programador e desenvolver projectos de que me orgulhe.
 
+---
+
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
@@ -33,6 +35,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
+
+---
 
 ## 🎧 Música
 
@@ -44,15 +48,13 @@ A música faz parte do meu dia a dia, especialmente quando estou a programar.
 
 </div>
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=ffffff&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-<img src="https://streak-stats.demolab.com?user=30rex30&theme=midnight-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=30rex30&theme=midnight-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="Estatísticas do GitHub de 30rex30" width="100%" />
 
 </div>
 
@@ -62,11 +64,11 @@ A música faz parte do meu dia a dia, especialmente quando estou a programar.
 
 <div align="center">
 
-📸 **Instagram:** [@30rex30](https://www.instagram.com/30rex30/)
+[![Instagram](https://img.shields.io/badge/Instagram-@30rex30-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/30rex30/)
 
-🎵 **Spotify:** [A minha playlist](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![Spotify](https://img.shields.io/badge/Spotify-A%20minha%20playlist-8A2BE2?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
-💻 **GitHub:** [30rex30](https://github.com/30rex30)
+[![GitHub](https://img.shields.io/badge/GitHub-30rex30-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/30rex30)
 
 </div>
 
