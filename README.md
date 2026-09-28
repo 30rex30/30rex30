@@ -5,7 +5,7 @@
 
 ### Renato Bento 🇵🇹
 
-💻 Estudo programação há 3 anos e faço isto por paixão.
+💻 Estudo programação há 3 anos
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=30rex30&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programar%20por%20paixão&descAlignY=60&descSize=18" width="100%" alt="Banner 30rex30" />
 
