@@ -7,7 +7,7 @@
 
 💻 Estudo programação há 3 anos.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=30rex30&fontSize=58&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20perfil&descAlignY=60&descSize=18&descColor=000000" width="100%" alt="Banner branco 30rex30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=30rex30&fontSize=58&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20perfil&descAlignY=60&descSize=18&descColor=000000" width="100%" alt="Banner 30rex30" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-@30rex30-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/30rex30/)
 
@@ -32,13 +32,13 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
