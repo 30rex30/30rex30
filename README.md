@@ -1,135 +1,126 @@
-# 30rex30
-
 <div align="center">
 
-<img src="./assets/chrome-hearts-editorial.jpg" width="100%" alt="Chrome Hearts Fashion Editorial" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E5E5E5,100:AAAAAA&height=220&section=header&text=30rex30&fontSize=70&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=Renato%20Bento%20%7C%20Portugal&descSize=20&descColor=555555&descAlignY=55" width="100%" />
 
-<br>
+# 30rex30
 
-# 30REX30
+### ✞ Olá, eu sou o Renato Bento!
 
-### RENATO BENTO · PORTUGAL 🇵🇹
+**Programador em aprendizagem** · 🇵🇹 Portugal
 
-**DEVELOPER IN PROGRESS — CREATIVE BY NATURE.**
+Estudo programação há 3 anos, sempre à procura de novos conhecimentos, desafios e formas de evoluir. Gosto de criar projetos, explorar novas tecnologias e descobrir formas de transformar ideias em realidade.
 
-*Building ideas into reality, one line at a time.*
+<br />
 
-<br>
-
-✞   DESIGN   ·   CODE   ·   CREATIVITY   ✞
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-30rex30-FFFFFF?style=flat-square\&logo=github\&logoColor=000000)](https://github.com/30rex30)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-30rex30-FFFFFF?style=flat-square\&logo=instagram\&logoColor=000000)](https://www.instagram.com/30rex30/)
-[![Spotify](https://img.shields.io/badge/SPOTIFY-MY%20SOUNDTRACK-FFFFFF?style=flat-square\&logo=spotify\&logoColor=000000)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=AAAAAA&height=1&width=90%" width="90%" />
+[![GitHub](https://img.shields.io/badge/GitHub-30rex30-white?style=flat-square&logo=github&logoColor=black)](https://github.com/30rex30)
+[![Instagram](https://img.shields.io/badge/Instagram-@30rex30-white?style=flat-square&logo=instagram&logoColor=black)](https://www.instagram.com/30rex30/)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-white?style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
 </div>
 
-## ✞ THE PERSON BEHIND THE CODE
+---
 
-Hey, I'm **Renato Bento**, also known as **30rex30**.
+## ✞ Sobre mim
 
-I'm a developer from Portugal with three years of experience in learning, experimenting and building projects.
+Olá! Sou o **Renato Bento**, conhecido na comunidade como **30rex30**.
 
-My journey in programming is driven by curiosity, creativity and the desire to transform ideas into something meaningful.
+- 🇵🇹 Natural de **Portugal**.
+- 💻 Estudo programação há **3 anos**.
+- 📚 Gosto de desenvolver projetos, aprender novas tecnologias e explorar diferentes áreas.
+- 🚀 Estou sempre à procura de novos desafios e oportunidades para evoluir.
+- 🎯 O meu foco é continuar a crescer enquanto programador e transformar ideias em código.
+- 🖤 Apaixonado por design, moda e pela estética da **Chrome Hearts**.
 
-I enjoy exploring new technologies, developing digital experiences and constantly improving my skills.
+---
 
-* 🇵🇹 Based in Portugal.
-* 💻 Three years exploring the world of programming.
-* 🎨 Passionate about design, aesthetics and technology.
-* 🚀 Always working on something new.
-* ✞ Inspired by individuality, creativity and attention to detail.
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+
+### 💻 Linguagens & Desenvolvimento
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### ⚛️ Frameworks & Mobile
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+### ☁️ Base de Dados & Ferramentas
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+---
+
+## ✞ Estética & Inspiração
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85" width="85%" alt="Fashion Editorial" />
+
+<br />
+
+*Fashion, individuality and creativity.*
+
+<br />
+
+A Chrome Hearts inspira-me pela sua identidade visual única, pela atenção ao detalhe e pela forma como combina criatividade, autenticidade e expressão pessoal.
+
+Tal como na programação, acredito que a diferença está nos detalhes.
+
+</div>
+
+---
+
+## 🎧 Música
+
+A música acompanha-me enquanto programo, penso e desenvolvo os meus projetos.
+
+<div align="center">
+
+[![Ouvir a minha playlist](https://img.shields.io/badge/🎧%20OUVIR%20A%20MINHA%20PLAYLIST-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=222222&text_color=555555&icon_color=888888&include_all_commits=true&count_private=true" width="100%" alt="Estatísticas do GitHub" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=222222&text_color=555555&langs_count=8" width="100%" alt="Linguagens mais utilizadas" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=30rex30&theme=default&hide_border=true&background=FFFFFF&ring=888888&fire=555555&currStreakLabel=333333&sideLabels=777777&currStreakNum=222222&sideNums=333333&dates=999999" width="100%" alt="Estatísticas de atividade" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✞ Obrigado pela visita!
+
+**30rex30** · Feito em Portugal 🇵🇹
 
 *Create with intention. Build with passion.*
 
-</div>
+<br />
 
----
-
-## ✞ TECHNOLOGIES
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=light" />
-
-<br><br>
-
-**FRAMEWORKS & MOBILE**
-
-<img src="https://skillicons.dev/icons?i=react,reactnative,expo&theme=light" />
-
-<br><br>
-
-**TOOLS & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=supabase,git,vscode&theme=light" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CLAUDE-AI%20ASSISTANT-E5E5E5?style=for-the-badge&logo=anthropic&logoColor=000000" />
-
-</div>
-
----
-
-## ✞ GITHUB INSIGHTS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=222222&text_color=555555&icon_color=777777&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=222222&text_color=555555&langs_count=8" width="100%" alt="Most Used Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=30rex30&theme=default&hide_border=true&background=FFFFFF&ring=888888&fire=555555&currStreakLabel=333333&sideLabels=777777&currStreakNum=222222&sideNums=333333&dates=999999" width="100%" alt="GitHub Streak" />
-
-</div>
-
----
-
-## ✞ OFF THE SCREEN
-
-<div align="center">
-
-<img src="./assets/chrome-hearts-detail.jpg" width="75%" alt="Chrome Hearts Editorial Detail" />
-
-<br><br>
-
-**MUSIC IS PART OF MY CREATIVE PROCESS.**
-
-Whether I'm coding, designing or simply thinking, music is always there.
-
-<br>
-
-[![Spotify](https://img.shields.io/badge/LISTEN_TO_MY_PLAYLIST-000000?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
-
-</div>
-
----
-
-<div align="center">
-
-### ✞ THANK YOU FOR STOPPING BY ✞
-
-**30REX30**
-
-*Made in Portugal. Built with passion.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E5E5E5,100:AAAAAA&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AAAAAA,50:E5E5E5,100:FFFFFF&height=150&section=footer&animation=fadeIn" width="100%" />
 
 </div>
