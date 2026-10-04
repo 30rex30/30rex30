@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- BANNER ANIMADO -->
@@ -36,7 +35,7 @@ Gosto de criar projectos, explorar novas tecnologias e descobrir novas formas de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light" alt="Tecnologias e ferramentas" />
+<img src="https://skillicons.dev" alt="Tecnologias e ferramentas" />
 
 </div>
 
