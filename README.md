@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Nome em Texto Puro (Visual Clean e Seguro que nunca falha) -->
   <h1>Renato Bento</h1>
   <p><b>Developer | 30rex30</b></p>
 
@@ -9,16 +8,16 @@
     Apaixonado por tecnologia, programação e criação de projetos.
   </p>
 
-  <!-- Badges Sociais em Branco com Ícones Pretos -->
+  <!-- Badges Sociais -->
   <p align="center">
-    <a href="https://github.com" target="_blank">
-      <img src="https://shields.io" alt="GitHub" />
+    <a href="https://github.com/30rex30" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://instagram.com" target="_blank">
-      <img src="https://shields.io" alt="Instagram" />
+    <a href="https://instagram.com/o_renatobento" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://spotify.com" target="_blank">
-      <img src="https://shields.io" alt="Spotify" />
+    <a href="https://open.spotify.com" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-000000?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
     </a>
   </p>
 
@@ -36,12 +35,11 @@
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## ⚙️️ Tecnologias e ferramentas
 
 <div align="center">
 
-  <!-- Ícones com o tema Light nativo e estável -->
-  <img src="https://skillicons.dev" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode,figma" alt="Tecnologias" />
 
 </div>
 
@@ -51,10 +49,9 @@
 
 <div align="center">
 
-  <!-- Gráficos Oficiais com Tema Padrão do GitHub para evitar quebras de imagem -->
-  <img height="180em" src="https://vercel.app" alt="Estatísticas Renato" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Renato" />
   
-  <img height="180em" src="https://vercel.app" alt="Linguagens Renato" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&theme=default&hide_border=true" alt="Linguagens Renato" />
 
 </div>
 
@@ -64,8 +61,11 @@
 
 <div align="center">
 
-  <!-- Animação da Cobra baseada nos commits reais do teu repositório -->
-  <img src="https://githubusercontent.com" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/30rex30/30rex30/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/30rex30/30rex30/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/30rex30/30rex30/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
