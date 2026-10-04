@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Renato%20Bento&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%2030rex30&descAlignY=55&descSize=18" width="100%" />
+  <!-- Cabeçalho em Branco Puro com Texto Preto -->
+  <img src="https://vercel.app" width="100%" />
 
   <h3>Olá, sou o Renato 👋</h3>
 
@@ -9,15 +10,16 @@
     Apaixonado por tecnologia, programação e criação de projetos.
   </p>
 
-  <p>
+  <!-- Badges Sociais com fundo Branco e ícones pretos -->
+  <p align="center">
     <a href="https://github.com/30rex30">
-      <img src="https://img.shields.io/badge/GitHub-30rex30-000000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://shields.io" />
     </a>
     <a href="https://www.instagram.com/30rex30/">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://shields.io" />
     </a>
     <a href="https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg">
-      <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" />
+      <img src="https://shields.io" />
     </a>
   </p>
 
@@ -25,7 +27,7 @@
 
 ---
 
-## 🖤 Sobre mim
+## 🤍 Sobre mim
 
 - 🇵🇹 Sou de Portugal.
 - 💻 Estudo programação há 3 anos.
@@ -39,7 +41,8 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,python,react,reactnative,expo,supabase,git,vscode" />
+  <!-- Ícones com tema Light (fundo branco/claro) -->
+  <img src="https://skillicons.dev" />
 
 </div>
 
@@ -49,9 +52,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=666666&locale=pt-br" />
+  <!-- Estatísticas configuradas com títulos e ícones brancos para brilhar no tema escuro -->
+  <img height="180em" src="https://vercel.app" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=666666&locale=pt-br" />
+  <!-- Linguagens com títulos em branco -->
+  <img height="180em" src="https://vercel.app" />
 
 </div>
 
@@ -61,6 +66,7 @@
 
 <div align="center">
 
+  <!-- Jogo da cobra clássico animado -->
   <img src="https://raw.githubusercontent.com/30rex30/30rex30/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
@@ -71,6 +77,7 @@
 
   <p><i>"Building things, learning every day."</i></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+  <!-- Rodapé em Branco Puro -->
+  <img src="https://vercel.app" width="100%" />
 
 </div>
