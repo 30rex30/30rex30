@@ -1,51 +1,11 @@
 <div align="center">
 
-<!-- BANNER SVG COM CORES ANIMADAS EM LOOP (Fade / Transição Suave) -->
-<svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes colorLoop {
-      0% { fill: #000000; }
-      50% { fill: #00B4D8; }
-      100% { fill: #000000; }
-    }
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.4; }
-      50% { opacity: 1; }
-    }
-    .bg-box {
-      fill: #050505;
-      stroke: #1a1a1a;
-      stroke-width: 2px;
-      rx: 16px;
-    }
-    .title-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 800;
-      font-size: 32px;
-      fill: #FFFFFF;
-    }
-    .animated-accent {
-      animation: colorLoop 5s ease-in-out infinite;
-    }
-    .sub-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 400;
-      font-size: 15px;
-      fill: #888888;
-    }
-  </style>
+<!-- ANIMAÇÃO DE TEXTO SEGURA E EM LOOP -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Renato+Bento+%F0%9F%91%8B;Developer+%26+Builder+%E2%9A%A1;Portugal+%F0%9F%87%B9%F0%9F%87%B9" alt="Typing SVG" />
+</p>
 
-  <!-- Cartão de Fundo -->
-  <rect x="10" y="10" width="780" height="140" class="bg-box" />
-
-  <!-- Textos -->
-  <text x="50" y="70" class="title-text">30rex30 <tspan class="animated-accent">■</tspan></text>
-  <text x="50" y="105" class="sub-text">Renato Bento • Developer &amp; Builder from Portugal 🇵🇹</text>
-  
-  <!-- Elemento Decorativo Animado -->
-  <circle cx="730" cy="80" r="22" fill="#0b0f19" class="animated-accent" />
-  <text x="730" y="87" font-size="18" text-anchor="middle" fill="#FFFFFF">⚡</text>
-</svg>
+# 30rex30
 
 <br />
 
