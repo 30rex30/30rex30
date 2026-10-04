@@ -1,25 +1,24 @@
 <div align="center">
 
-  <!-- Cabeçalho em Branco Puro com Texto Preto -->
-  <img src="https://vercel.app" width="100%" />
-
-  <h3>Olá, sou o Renato 👋</h3>
+  <!-- Nome em Texto Puro (Visual Clean e Seguro que nunca falha) -->
+  <h1>Renato Bento</h1>
+  <p><b>Developer | 30rex30</b></p>
 
   <p>
     Desenvolvedor de Portugal 🇵🇹<br>
     Apaixonado por tecnologia, programação e criação de projetos.
   </p>
 
-  <!-- Badges Sociais com fundo Branco e ícones pretos -->
+  <!-- Badges Sociais em Branco com Ícones Pretos -->
   <p align="center">
-    <a href="https://github.com/30rex30">
-      <img src="https://shields.io" />
+    <a href="https://github.com" target="_blank">
+      <img src="https://shields.io" alt="GitHub" />
     </a>
-    <a href="https://www.instagram.com/30rex30/">
-      <img src="https://shields.io" />
+    <a href="https://instagram.com" target="_blank">
+      <img src="https://shields.io" alt="Instagram" />
     </a>
-    <a href="https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg">
-      <img src="https://shields.io" />
+    <a href="https://spotify.com" target="_blank">
+      <img src="https://shields.io" alt="Spotify" />
     </a>
   </p>
 
@@ -41,22 +40,21 @@
 
 <div align="center">
 
-  <!-- Ícones com tema Light (fundo branco/claro) -->
-  <img src="https://skillicons.dev" />
+  <!-- Ícones com o tema Light nativo e estável -->
+  <img src="https://skillicons.dev" alt="Tecnologias" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Estatísticas
 
 <div align="center">
 
-  <!-- Estatísticas configuradas com títulos e ícones brancos para brilhar no tema escuro -->
-  <img height="180em" src="https://vercel.app" />
-
-  <!-- Linguagens com títulos em branco -->
-  <img height="180em" src="https://vercel.app" />
+  <!-- Gráficos Oficiais com Tema Padrão do GitHub para evitar quebras de imagem -->
+  <img height="180em" src="https://vercel.app" alt="Estatísticas Renato" />
+  
+  <img height="180em" src="https://vercel.app" alt="Linguagens Renato" />
 
 </div>
 
@@ -66,18 +64,13 @@
 
 <div align="center">
 
-  <!-- Jogo da cobra clássico animado -->
-  <img src="https://raw.githubusercontent.com/30rex30/30rex30/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Animação da Cobra baseada nos commits reais do teu repositório -->
+  <img src="https://githubusercontent.com" alt="Snake animation" />
 
 </div>
 
 ---
 
 <div align="center">
-
   <p><i>"Building things, learning every day."</i></p>
-
-  <!-- Rodapé em Branco Puro -->
-  <img src="https://vercel.app" width="100%" />
-
 </div>
