@@ -1,163 +1,100 @@
-<!DOCTYPE html>
-<html lang="pt" class="dark">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Renato Bento — Developer & Builder</title>
-    <!-- Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    animation: {
-                        'gradient-xy': 'gradientXY 15s ease infinite',
-                        'float': 'float 6s ease-in-out infinite',
-                    },
-                    keyframes: {
-                        gradientXY: {
-                            '0%, 100%': {
-                                'background-size': '400% 400%',
-                                'background-position': 'left center'
-                            },
-                            '50%': {
-                                'background-size': '400% 400%',
-                                'background-position': 'right center'
-                            }
-                        },
-                        float: {
-                            '0%, 100%': { transform: 'translateY(0)' },
-                            '50%': { transform: 'translateY(-10px)' },
-                        }
-                    }
-                }
-            }
-        }
-    </script>
+<p align="center">
+  <a href="https://github.com/30rex30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Renato+Bento+%F0%9F%91%8B;Developer+%26+Builder+from+Portugal+%F0%9F%87%B9%F0%9F%87%B9" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- BANNER ANIMADO PRETO, BRANCO E CORES VIBRANTES -->
+<p align="center">
+  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
     <style>
-        /* Gradiente animado de texto */
-        .animated-gradient-text {
-            background: linear-gradient(-45deg, #ff758c, #ff7eb3, #7928ca, #ff0080, #7928ca);
-            background-size: 300% 300%;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradientXY 8s ease infinite;
-        }
-        /* Brilho animado de fundo subtil */
-        .animated-glow {
-            background: linear-gradient(-45deg, rgba(121, 40, 202, 0.15), rgba(255, 0, 128, 0.15), rgba(0, 224, 255, 0.15));
-            background-size: 400% 400%;
-            animation: gradientXY 12s ease infinite;
-        }
+      @keyframes gradientShift {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      .bg-card {
+        fill: #0d0d0d;
+        stroke: #222222;
+        stroke-width: 2px;
+        rx: 16px;
+      }
+      .animated-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 800;
+        font-size: 28px;
+        fill: url(#rainbow-gradient);
+        animation: pulseGlow 3s ease-in-out infinite;
+      }
+      .sub-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        fill: #888888;
+      }
     </style>
-</head>
-<body class="bg-black text-zinc-100 min-h-screen flex flex-col justify-between selection:bg-zinc-800 selection:text-white font-sans antialiased relative overflow-x-hidden">
 
-    <!-- Elemento de luz/cor animado no fundo -->
-    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] animated-glow blur-[120px] rounded-full pointer-events-none -z-10"></div>
+    <defs>
+      <!-- Gradiente animado multicolorido -->
+      <linearGradient id="rainbow-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FF5733">
+          <animate attributeName="stop-color" values="#FF5733;#33FF57;#3357FF;#FF5733" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#33FF57">
+          <animate attributeName="stop-color" values="#33FF57;#3357FF;#FF5733;#33FF57" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#3357FF">
+          <animate attributeName="stop-color" values="#3357FF;#FF5733;#33FF57;#3357FF" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
 
-    <!-- Main Container -->
-    <main class="max-w-2xl mx-auto px-6 py-16 md:py-24 w-full space-y-12">
+    <!-- Fundo do Card -->
+    <rect x="10" y="10" width="780" height="140" class="bg-card" />
 
-        <!-- Header / Bio -->
-        <section class="space-y-4 animate-fade-in">
-            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-800 bg-zinc-900/50 text-xs text-zinc-400 backdrop-blur-md">
-                <span>🇵🇹 Portugal</span>
-                <span class="w-1 h-1 rounded-full bg-emerald-500 animate-pulse"></span>
-                <span>Available for new projects</span>
-            </div>
-            
-            <h1 class="text-4xl md:text-5xl font-bold tracking-tight">
-                Hi, I'm <span class="animated-gradient-text">Renato Bento</span> 👋
-            </h1>
-            
-            <p class="text-lg text-zinc-400 font-medium">
-                Developer & Builder focused on crafting exceptional digital experiences.
-            </p>
-        </section>
+    <!-- Textos -->
+    <text x="50" y="65" class="animated-text">Clean Code & High Performance</text>
+    <text x="50" y="100" class="sub-text">React • React Native • PHP • Supabase • C++</text>
+    
+    <!-- Ícone decorativo Minimalista -->
+    <circle cx="730" cy="80" r="25" fill="#151515" stroke="#333" stroke-width="2"/>
+    <text x="730" y="87" font-size="20" text-anchor="middle">⚡</text>
+  </svg>
+</p>
 
-        <div class="h-px bg-gradient-to-r from-transparent via-zinc-800 to-transparent"></div>
+---
 
-        <!-- Overview -->
-        <section class="space-y-4">
-            <h2 class="text-xs font-mono uppercase tracking-widest text-zinc-500">Overview</h2>
-            <div class="grid grid-cols-1 gap-3">
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 hover:border-zinc-700 transition-all duration-300 flex items-center gap-4">
-                    <span class="text-2xl">💻</span>
-                    <div>
-                        <h3 class="text-sm font-semibold text-zinc-200">Experience</h3>
-                        <p class="text-sm text-zinc-400">3 years exploring and building software.</p>
-                    </div>
-                </div>
+### 🛠️ Tech Stack
 
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 hover:border-zinc-700 transition-all duration-300 flex items-center gap-4">
-                    <span class="text-2xl">🚀</span>
-                    <div>
-                        <h3 class="text-sm font-semibold text-zinc-200">Focus</h3>
-                        <p class="text-sm text-zinc-400">Clean code, mobile apps, and high-performance web solutions.</p>
-                    </div>
-                </div>
+* **Frontend & Mobile:** `React`, `React Native`, `Expo`, `JavaScript`, `TypeScript`
+* **Backend & Systems:** `PHP`, `C++`, `Supabase`
+* **Workflow & AI:** `Cursor`, `Claude`, `Git`, `VS Code`
 
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 hover:border-zinc-700 transition-all duration-300 flex items-center gap-4">
-                    <span class="text-2xl">🤖</span>
-                    <div>
-                        <h3 class="text-sm font-semibold text-zinc-200">Workflow</h3>
-                        <p class="text-sm text-zinc-400">Powered by modern AI tooling to ship faster and better.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+---
 
-        <!-- Tech Stack -->
-        <section class="space-y-4">
-            <h2 class="text-xs font-mono uppercase tracking-widest text-zinc-500">Tech Stack</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 space-y-2">
-                    <h3 class="text-xs font-mono text-zinc-400 uppercase">Frontend & Mobile</h3>
-                    <p class="text-sm text-zinc-200 font-medium">React, React Native, Expo, JavaScript, TypeScript</p>
-                </div>
+### 📊 Overview
 
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 space-y-2">
-                    <h3 class="text-xs font-mono text-zinc-400 uppercase">Backend & Systems</h3>
-                    <p class="text-sm text-zinc-200 font-medium">PHP, C++, Supabase</p>
-                </div>
+* 💻 **3 years** exploring and building software.
+* 🚀 Focused on clean code, mobile apps, and high-performance web solutions.
+* 🤖 Powered by modern AI tooling to ship faster and better.
 
-                <div class="p-4 rounded-xl border border-zinc-800/80 bg-zinc-900/30 space-y-2">
-                    <h3 class="text-xs font-mono text-zinc-400 uppercase">Workflow & AI</h3>
-                    <p class="text-sm text-zinc-200 font-medium">Cursor, Claude, Git, VS Code</p>
-                </div>
+---
 
-            </div>
-        </section>
+### 📫 Connect with me
 
-        <!-- Connect -->
-        <section class="space-y-4">
-            <h2 class="text-xs font-mono uppercase tracking-widest text-zinc-500">Connect</h2>
-            <div class="flex flex-wrap gap-3">
-                <a href="https://github.com/30rex30" target="_blank" class="px-4 py-2 rounded-lg border border-zinc-800 bg-zinc-900 hover:bg-zinc-800 hover:border-zinc-700 text-sm font-medium transition-all flex items-center gap-2">
-                    <span>GitHub</span>
-                    <span class="text-zinc-500 text-xs">@30rex30</span>
-                </a>
-                <a href="https://instagram.com/o_renatobento" target="_blank" class="px-4 py-2 rounded-lg border border-zinc-800 bg-zinc-900 hover:bg-zinc-800 hover:border-zinc-700 text-sm font-medium transition-all flex items-center gap-2">
-                    <span>Instagram</span>
-                    <span class="text-zinc-500 text-xs">@o_renatobento</span>
-                </a>
-            </div>
-        </section>
+<p align="left">
+  <a href="https://github.com/30rex30">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/o_renatobento">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-        <!-- Quote -->
-        <blockquote class="p-4 rounded-xl border border-dashed border-zinc-800 text-center text-zinc-400 text-sm italic">
-            "Building things, learning every day."
-        </blockquote>
+---
 
-    </main>
-
-    <!-- Footer -->
-    <footer class="max-w-2xl mx-auto px-6 py-8 w-full text-center text-xs text-zinc-600 border-t border-zinc-900">
-        © 2026 Renato Bento. All rights reserved.
-    </footer>
-
-</body>
-</html>
+> *"Building things, learning every day."*
