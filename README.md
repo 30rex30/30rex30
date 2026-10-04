@@ -1,27 +1,27 @@
 <div align="center">
 
-  <!-- ARTE ASCII CUSTOMIZADA -->
+  <!-- CAPELA DE FUNDO ANIMADA NO TOPO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=120&section=header&text=RENATO%20BENTO&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Developer%20|%2030rex30&descSize=16&descColor=ffffff" width="100%" />
+
+  <!-- ARTE ASCII CUSTOMIZADA PARA REX COM ESTILO -->
   <pre>
-  ██████╗ ███████╗██╗  ██╗
-  ██╔══██╗██╔════╝██║  ██║
-  ██████╔╝█████╗  ███████║
-  ██╔══██╗██╔══╝  ██╔══██║
-  ██║  ██║███████╗██║  ██║
-  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+  <b><span style="color: #6366f1;">██████╗ ███████╗██╗  ██╗</span></b>
+  <b><span style="color: #8b5cf6;">██╔══██╗██╔════╝██║  ██║</span></b>
+  <b><span style="color: #a855f7;">██████╔╝█████╗  ███████║</span></b>
+  <b><span style="color: #d946ef;">██╔══██╗██╔══╝  ██╔══██║</span></b>
+  <b><span style="color: #ec4899;">██║  ██║███████╗██║  ██║</span></b>
+  <b><span style="color: #f43f5e;">╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝</span></b>
   </pre>
 
-  <h1>Renato Bento <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <p><b>Developer | 30rex30</b></p>
-
+  <!-- TEXTO DINÂMICO ANIMADO -->
   <p>
-    Desenvolvedor baseado em Portugal 🇵🇹<br>
-    <i>"Building things, learning every day."</i>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%8E%AE;Mobile+%26+Web+Creator+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </p>
 
-  <!-- BADGES SOCIAIS MINIMALISTAS E ANIMADAS -->
+  <!-- BADGES SOCIAIS COM EFEITO MODERNIZADO -->
   <p align="center">
     <a href="https://github.com/30rex30" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://instagram.com/o_renatobento" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -42,10 +42,10 @@
     <td align="left">
       <ul>
         <li>🇵🇹 Natural e a residir em <b>Portugal</b>.</li>
-        <li>💻 Há 3 anos a explorar o mundo da programação.</li>
-        <li>🚀 Focado em criar projetos criativos e funcionais.</li>
-        <li>🎯 Em constante evolução e aprendizagem diária.</li>
-        <li>🛠️ Áreas de interesse: <b>Desenvolvimento Web, Mobile e Software</b>.</li>
+        <li>💻 Há 3 anos a explorar o mundo da programação e desenvolvimento.</li>
+        <li>🚀 Focado em criar experiências mobile/web fluidas e funcionais.</li>
+        <li>🤖 Apaixonado por ferramentas de IA de ponta (<b>Claude, Cursor</b>).</li>
+        <li>🎯 Em constante evolução, transformando ideias em código limpo.</li>
       </ul>
     </td>
   </tr>
@@ -57,8 +57,8 @@
 
 <div align="center">
 
-  <!-- ICONES CLEAN COM O TEMA MAIS MODERNO -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,git,github,vscode,figma,linux&theme=dark" alt="Tecnologias" />
+  <!-- STACK ATUALIZADO (React, React Native, Expo, PHP, C++, JS, TS, Supabase, VSCode, Claude, Cursor) -->
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,php,cpp,js,ts,supabase,vscode,claude,cursor,git,github&theme=dark" alt="Tecnologias Stack" />
 
 </div>
 
@@ -72,7 +72,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Renato" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&theme=vue-dark&hide_border=true" alt="Linguagens Renato" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&theme=vue-dark&hide_border=true" alt="Linguagens mais usadas" />
   </p>
 
 </div>
@@ -94,5 +94,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,28,26,24,22,20,18,16,14,12,10,8,6,4,2,0&height=70&section=footer" width="100%"/>
 </div>
