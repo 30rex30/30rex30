@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d97706&height=2" width="100%" />
 
-<!-- BANNER ANIMADO DE TOPO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=220&section=header&text=30rex30&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Renato%20Bento%20%7C%20Portugal&descSize=20&descAlignY=55" width="100%" />
+<!-- BANNER ANIMADO DE TOPO (Azul Noite e Laranja da Foto) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:0b0f19&height=220&section=header&text=30rex30&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Renato%20Bento%20%7C%20Portugal&descSize=20&descAlignY=55&descColor=d97706" width="100%" />
 
 # 30rex30
 ### 👋 Olá, eu sou o Renato Bento!
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-30rex30-white?style=flat-square&logo=github&logoColor=black)](https://github.com/30rex30)
-[![Instagram](https://img.shields.io/badge/Instagram-@30rex30-white?style=flat-square&logo=instagram&logoColor=black)](https://www.instagram.com/o_renatobento/)
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-white?style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![GitHub](https://img.shields.io/badge/GitHub-30rex30-0b0f19?style=flat-square&logo=github&logoColor=white)](https://github.com/30rex30)
+[![Instagram](https://img.shields.io/badge/Instagram-@30rex30-0b0f19?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/o_renatobento/)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-0b0f19?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
 </div>
 
@@ -65,7 +65,7 @@ A música acompanha-me enquanto programo e desenvolvo os meus projetos.
 
 <div align="center">
 
-[![Ouvir a minha playlist](https://img.shields.io/badge/🎧%20OUVIR%20A%20MINHA%20PLAYLIST-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![Ouvir a minha playlist](https://img.shields.io/badge/🎧%20OUVIR%20A%20MINHA%20PLAYLIST-0b0f19?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
 </div>
 
@@ -75,7 +75,7 @@ A música acompanha-me enquanto programo e desenvolvo os meus projetos.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=30rex30&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=777777" width="100%" alt="Estatísticas do GitHub" />
+<img src="https://streak-stats.demolab.com?user=30rex30&theme=dark&hide_border=true&background=0b0f19&ring=d97706&fire=d97706&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="100%" alt="Estatísticas do GitHub" />
 
 </div>
 
@@ -85,8 +85,8 @@ A música acompanha-me enquanto programo e desenvolvo os meus projetos.
 
 ### Obrigado pela visita!
 
-<!-- BANNER ANIMADO DE RODAPÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:888888,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
+<!-- BANNER ANIMADO DE RODAPÉ (Com transição para azul escuro) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:0b0f19&height=150&section=footer&animation=fadeIn" width="100%" />
 
 **30rex30** · Feito em Portugal 🇵🇹
 
