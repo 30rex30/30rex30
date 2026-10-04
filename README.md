@@ -1,73 +1,95 @@
-<!-- HEADER ANIMADO PROFISSIONAL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=180&section=header&text=Renato%20Bento&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20&%20Builder%20from%20Portugal%20🇵🇹&descSize=16&descAlignY=62&descColor=00FFCC" />
-</p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=30&lines=Building+Clean+Code+%26+Mobile+Apps;React+%7C+React+Native+%7C+Supabase+%7C+Python" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%" />
+<!-- BANNER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=220&section=header&text=30rex30&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Renato%20Bento%20%7C%20Portugal&descSize=20&descAlignY=55" width="100%" />
 
-### 💻 About Me
+# 30rex30
+### 👋 Olá, eu sou o Renato Bento!
 
-- 🚀 Passionate **Developer & Builder** from Portugal.
-- 💻 **3 years** of experience exploring, building, and scaling software.
-- 🤖 Powered by modern AI tooling (**Cursor**, **Claude**) to ship faster, cleaner, and smarter.
+### Renato Bento · 🇵🇹 Portugal
+**30rex30** · 🇵🇹 Portugal
 
----
+**Programador em aprendizagem**
+💻 Estudo programação há 3 anos.
 
-### 🛠️ Tech Stack
+Estudo programação há 3 anos, sempre à procura de novos conhecimentos, desafios e formas de evoluir.
+Gosto de criar projectos, explorar novas tecnologias e descobrir novas formas de transformar ideias em realidade.
 
-<p align="left">
-  <!-- Frontend & Mobile -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<br />
 
-  <br>
+[![Instagram](https://img.shields.io/badge/Instagram-30rex30-white?style=flat-square&logo=instagram&logoColor=black)](https://www.instagram.com/30rex30/)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-white?style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![GitHub](https://img.shields.io/badge/GitHub-30rex30-white?style=flat-square&logo=github&logoColor=black)](https://github.com/30rex30)
+[![Instagram](https://img.shields.io/badge/Instagram-@30rex30-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/30rex30/)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-white?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-
-  <br>
-
-  <!-- Workflow & AI -->
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## Sobre mim
+## 👨‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=30rex30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30rex30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
-</p>
+Olá! Sou o **Renato Bento**, conhecido na comunidade como **30rex30**.
 
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://github.com/30rex30">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/o_renatobento">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- 🇵🇹 Natural de Portugal.
+- 💻 Estudo programação há 3 anos.
+- 📚 Gosto de aprender novas tecnologias e explorar diferentes áreas da programação.
+- 🚀 Procuro evoluir continuamente e desenvolver projectos que me desafiem.
+- 🎯 O meu foco é continuar a crescer enquanto programador.
+- 👋 Chamo-me **Renato Bento**, conhecido como **30rex30**.
+- 🇵🇹 Sou de Portugal.
+- 📚 Estudo programação há 3 anos.
+- 💻 Gosto de desenvolver projectos e explorar diferentes tecnologias.
+- 🚀 Estou sempre à procura de novos desafios e oportunidades para aprender.
+- 🎯 O meu objectivo é continuar a evoluir enquanto programador.
 
 ---
 
-<p align="center">
-  <i>"Building things, learning every day."</i>
-</p>
+## Tecnologias
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+@@ -43,31 +42,34 @@ Olá! Sou o **Renato Bento**, conhecido na comunidade como **30rex30**.
+
+---
+
+## Música
+## 🎧 Música
+
+A música acompanha-me enquanto trabalho e exploro novas ideias.
+A música acompanha-me enquanto programo e desenvolvo os meus projectos.
+
+<div align="center">
+
+[![Ouvir playlist](https://img.shields.io/badge/OUVIR%20A%20MINHA%20PLAYLIST-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![Ouvir a minha playlist](https://img.shields.io/badge/🎧%20OUVIR%20A%20MINHA%20PLAYLIST-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+
+</div>
+
+---
+
+## Estatísticas
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=30rex30&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=777777" width="100%" alt="Estatísticas de contribuições do GitHub" />
+<img src="https://streak-stats.demolab.com?user=30rex30&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=777777" width="100%" alt="Estatísticas do GitHub" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado por visitares o meu perfil.
+<!-- BANNER ANIMADO DE RODAPÉ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:888888,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
+
+### Obrigado pela visita!
+
+**30rex30** · Feito em Portugal 🇵🇹
