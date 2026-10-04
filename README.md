@@ -5,12 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Renato+Bento+%F0%9F%91%8B;Developer+%26+Builder+%E2%9A%A1;Portugal+%F0%9F%87%B9%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
+# 30rex30
 
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-30rex30-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/30rex30)
 [![Instagram](https://img.shields.io/badge/Instagram-@30rex30-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/o_renatobento/)
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-000000?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-000000?style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/intl-pt/album/5sGpj7bugfIqJJUQM5CGhP?si=YdEq7SXwS86i8skQZAPSfg)
 
 </div>
 
@@ -40,10 +41,12 @@ Olá! Sou o **Renato Bento**, conhecido na comunidade como **30rex30**.
   
   <br>
 
-  <!-- Backend & Database -->
+  <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
   <br>
 
