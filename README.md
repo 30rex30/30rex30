@@ -1,12 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2" width="100%" />
+<!-- BANNER SVG COM CORES ANIMADAS EM LOOP (Fade / Transição Suave) -->
+<svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes colorLoop {
+      0% { fill: #000000; }
+      50% { fill: #00B4D8; }
+      100% { fill: #000000; }
+    }
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+    .bg-box {
+      fill: #050505;
+      stroke: #1a1a1a;
+      stroke-width: 2px;
+      rx: 16px;
+    }
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      fill: #FFFFFF;
+    }
+    .animated-accent {
+      animation: colorLoop 5s ease-in-out infinite;
+    }
+    .sub-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      fill: #888888;
+    }
+  </style>
 
-<!-- BANNER ANIMADO DE TOPO (Azul Céu e Preto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:03071e,100:00B4D8&height=220&section=header&text=30rex30&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Renato%20Bento%20%7C%20Portugal&descSize=20&descAlignY=55&descColor=00B4D8" width="100%" />
+  <!-- Cartão de Fundo -->
+  <rect x="10" y="10" width="780" height="140" class="bg-box" />
 
-# 30rex30
-### 👋 Olá, eu sou o Renato Bento!
+  <!-- Textos -->
+  <text x="50" y="70" class="title-text">30rex30 <tspan class="animated-accent">■</tspan></text>
+  <text x="50" y="105" class="sub-text">Renato Bento • Developer &amp; Builder from Portugal 🇵🇹</text>
+  
+  <!-- Elemento Decorativo Animado -->
+  <circle cx="730" cy="80" r="22" fill="#0b0f19" class="animated-accent" />
+  <text x="730" y="87" font-size="18" text-anchor="middle" fill="#FFFFFF">⚡</text>
+</svg>
 
 <br />
 
