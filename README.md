@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Renato+Bento+%F0%9F%91%8B;Developer+%26+Builder+%E2%9A%A1;Portugal+%F0%9F%87%B9%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
-# 30rex30
+
 
 <br />
 
