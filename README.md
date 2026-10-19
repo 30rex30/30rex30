@@ -41,6 +41,6 @@ ik<div align="center">
 ### Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<TEU-USERNAME>&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TEU-USERNAME>&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<30rex30>&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<30rex30>&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
