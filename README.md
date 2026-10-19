@@ -72,13 +72,11 @@ A música acompanha-me enquanto programo e desenvolvo os meus projetos.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=30rex30&theme=dark&hide_border=true&background=000000&ring=00B4D8&fire=00B4D8&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="100%" alt="Estatísticas do GitHub" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
+</picture>
 
 ---
 
