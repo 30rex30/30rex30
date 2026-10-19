@@ -1,4 +1,4 @@
-<div align="center">
+ik<div align="center">
   <h1>Frontend & Mobile Developer</h1>
   <p>Desenvolvimento de aplicações web e mobile modernas com foco em performance e UI/UX.</p>
 </div>
@@ -30,9 +30,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<TEU-USERNAME>/<TEU-USERNAME>/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<TEU-USERNAME>/<TEU-USERNAME>/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/<TEU-USERNAME>/<TEU-USERNAME>/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<30rex30>/<30rex30>/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<30rex30>/<30rex30>/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/<30rex30>/<30rex30>/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
